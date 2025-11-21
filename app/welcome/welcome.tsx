@@ -25,10 +25,9 @@ export function Welcome() {
           <nav>
             <p>I am an aspiring software developer, here are my projects.</p>
             <p className="text-center">
-              {" "}
               This portfolio.
               <Link to="https://triviallock.com/">Trivial.lock</Link>
-              <br /> stay tuned for more!{" "}
+              <br /> stay tuned for more!
             </p>
             <p className="text-center">sabazelolem@gmail.com</p>
           </nav>
