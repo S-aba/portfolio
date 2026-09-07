@@ -14,11 +14,6 @@ export function Welcome() {
               </span>
               . Welcome to my portfolio!
             </p>
-            <img
-              src={personalPhoto}
-              alt="photo of me"
-              className="rounded-4xl border border-pink-200 dark:border-pink-700"
-            />
           </div>
         </header>
         <div>
